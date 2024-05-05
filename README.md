@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![326725025-786c693a-980f-4467-945c-5c9d0d5c6076](https://github.com/syedfayaz3105/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147144126/590b95f1-1ffd-4fed-be0e-57df3c35684a)
 
-### Name:
-### Register Number:
+### Name:FARHANA H
+### Register Number:212223230057
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
